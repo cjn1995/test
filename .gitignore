@@ -23,5 +23,7 @@
 hs_err_pid*
 
 #ignore
-.settings/
-target/
+.settings/*
+.project
+.classpath
+target/*
